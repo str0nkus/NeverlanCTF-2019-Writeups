@@ -1,6 +1,6 @@
 Writeups for the NeverLAN-CTF
 ---
-Team Name: drinkingandtingering.local
+Team Name:
 ---
 	drinkingandtingering.local
 

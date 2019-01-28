@@ -9,7 +9,8 @@ Members:
 	Str0nkus
 	ErikCTF
 	JonJonJay
-	Howie
+	howie1337
+	
 Focus:
 ---
 	Complete as many flags as possible

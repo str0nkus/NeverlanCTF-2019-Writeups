@@ -2,7 +2,7 @@ Writeups for the NeverLAN-CTF
 ---
 Team Name:
 ---
-	drinkingandtingering.local
+	drinkingandtinkering.locald
 
 Members:
 ---
@@ -10,7 +10,7 @@ Members:
 	ErikCTF
 	JonJonJay
 	howie1337
-	
+
 Focus:
 ---
 	Complete as many flags as possible

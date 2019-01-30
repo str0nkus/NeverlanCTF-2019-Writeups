@@ -2,7 +2,7 @@ Writeups for the NeverLAN-CTF
 ---
 Team Name:
 ---
-	drinkingandtinkering.locald
+	drinkingandtinkering.local
 
 Members:
 ---

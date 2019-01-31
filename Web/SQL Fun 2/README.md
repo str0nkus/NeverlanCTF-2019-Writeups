@@ -15,6 +15,10 @@ Answer
 	2. Join this table with the passwd table: SELECT * FROM users JOIN passwd WHERE Lname="Miller"
 
 ![alt text](https://i.imgur.com/I9G9O1w.png)
+	
+	3. One of the tables gives us: ZmxhZ3tXMWxsX1kwdV9KMDFOX00zP30=
+	4. Decode base64 value
+	5. Flag: flag{W1ll_Y0u_J01N_M3?}
 
 Flag:
 ---

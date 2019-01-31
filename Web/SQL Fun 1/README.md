@@ -2,6 +2,7 @@
 ---
 Question:
 ---
+	REPORT: 'My Customer forgot his Password. His Fname is Jimmy. Can you get his password for me? It should be in the users table'
 	https://challenges.neverlanctf.com:1150
 
 Answer

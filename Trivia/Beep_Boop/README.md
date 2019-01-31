@@ -1,4 +1,4 @@
-[NAME OF TASK]
+[BEEP BOOP]
 ---
 Question:
 ---
@@ -6,18 +6,10 @@ Question:
 
 Answer
 ---
-	Write answers, or how to solve the task
+	robots.txt
 
-Comment:
----
-	Any comment to the task
 
 Flag:
 ---
-	Enter the flag here
+	robots.txt
 
-Resources:
----
-	![alt text](LINKTOPICTURE)
-	This part can be deleted, but will include information you might need.
-	Remember to rename this to "README.md" when edited

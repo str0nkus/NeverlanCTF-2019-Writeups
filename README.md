@@ -10,6 +10,8 @@ Members:
 	ErikCTF
 	JonJonJay
 	howie1337
+	henrik117
+	sirdammnent
 
 Focus:
 ---

@@ -15,9 +15,3 @@ Comment:
 Flag:
 ---
 	flag{YummyC00k13s}
-
-Resources:
----
-	![alt text](LINKTOPICTURE)
-	This part can be deleted, but will include information you might need.
-	Remember to rename this to "README.md" when edited

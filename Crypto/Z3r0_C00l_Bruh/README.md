@@ -26,7 +26,7 @@ Answer
 	9. Firstly i thought it was base64 (it was not)
 	10. Secondly i thought it was a caesar cipher / rot 13 (it was not)
 	11. Thidrdly i thought it was a Viginere cipher
-	12. It was a Viginere with the password "hackers"
+	12. It was a Viginere with the password "hackers" (as the hint gave us "what are they")
 
 ![alt text](https://i.imgur.com/Ag2OGOh.png)
 

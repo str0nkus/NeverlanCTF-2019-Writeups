@@ -17,9 +17,3 @@ Comment:
 Flag:
 ---
 	DOINGTHISBYHANDISMOREFUNTHANANONLINETOOL
-
-Resources:
----
-	![alt text](LINKTOPICTURE)
-	This part can be deleted, but will include information you might need.
-	Remember to rename this to "README.md" when edited

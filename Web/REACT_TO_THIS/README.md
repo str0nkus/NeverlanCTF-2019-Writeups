@@ -9,6 +9,7 @@ Question:
 Answer
 ---
 	Found flag under Sources - JS - Pages - Admin.js 
+![alt text](https://i.imgur.com/UQanImA.png)
 
 
 Comment:

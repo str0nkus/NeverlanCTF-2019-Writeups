@@ -18,9 +18,3 @@ Comment:
 Flag:
 ---
 	s3cur3_y0ur_s3ss10ns
-
-Resources:
----
-	![alt text](LINKTOPICTURE)
-	This part can be deleted, but will include information you might need.
-	Remember to rename this to "README.md" when edited

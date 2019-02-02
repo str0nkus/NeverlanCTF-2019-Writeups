@@ -6,7 +6,11 @@ Question:
 
 Answer
 ---
-	Edit cookie Red_Guys_Name to Elmo
+	There is a cookie called Red_Guys_Name and the content field has the Value "NameGoesHere" 
+![alt text](https://i.imgur.com/Yl2TuLN.png)
+
+	Edited the content field to Elmo (Sesame Street)
+![alt text](https://i.imgur.com/Ns4jOv4.png)
 
 Comment:
 ---
@@ -15,9 +19,3 @@ Comment:
 Flag:
 ---
 	flag{YummyC00k13s}
-
-Resources:
----
-	![alt text](LINKTOPICTURE)
-	This part can be deleted, but will include information you might need.
-	Remember to rename this to "README.md" when edited

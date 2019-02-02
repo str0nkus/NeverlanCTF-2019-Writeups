@@ -16,9 +16,3 @@ Comment:
 Flag:
 ---
 	FLAG{D0WN_AND_D1R7Y}
-
-Resources:
----
-	![alt text](LINKTOPICTURE)
-	This part can be deleted, but will include information you might need.
-	Remember to rename this to "README.md" when edited

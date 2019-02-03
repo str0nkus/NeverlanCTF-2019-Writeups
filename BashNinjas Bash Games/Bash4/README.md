@@ -4,6 +4,8 @@ Question:
 ---
 	ssh -p 3333 level3@157.230.73.80
 	Use Bash 3 password: child-of-honor
+	So you know how to use grep or some other similar program. Good for you. Now can
+	you do the same thing with a binary file?
 
 Answer
 ---

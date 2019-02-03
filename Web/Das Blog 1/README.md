@@ -16,9 +16,11 @@ Answer
 
 	3. 1' or 1=1 -- - ended up working
 
-![alt text] (https://i.imgur.com/CnKkYvX.png)
-![alt text] (https://i.imgur.com/ekTcAX8.png)
-![alt text] (https://i.imgur.com/P9uOsh8.png)
+![alt text](https://i.imgur.com/CnKkYvX.png)
+
+![alt text](https://i.imgur.com/ekTcAX8.png)
+
+![alt text](https://i.imgur.com/P9uOsh8.png)
 
 
 Flag:

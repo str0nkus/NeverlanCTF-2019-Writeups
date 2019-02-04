@@ -6,8 +6,13 @@ Team Name:
 
 Members:
 ---
+	Primarys:
+
 	Str0nkus
 	ErikCTF
+
+	Extras:
+
 	JonJonJay
 	howie1337
 	henrik117
@@ -20,5 +25,9 @@ Comment:
 ---
 	This is our first time as a team in an entry level CTF
 	This is mostly for testing pourposes
-	
-![alt text](https://i.imgur.com/lZcUbvH.jpg)
+
+Edit:
+---
+	drinkingandtinkering.local
+	114th place overall
+	4810 points
